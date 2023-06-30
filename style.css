@@ -181,7 +181,7 @@ nav{
     .sidebar{
         display: none;
     }
-    .container .large-container{
+    .container, .large-container{
         padding-left: 5%;
         padding-right: 5%;
     }
